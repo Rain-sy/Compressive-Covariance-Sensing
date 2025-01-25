@@ -5,4 +5,4 @@ The dataset used is the SRBCT gene expression data, which consists of 2,038 gene
 
 The figures display the covariance matrix constructed from the selected 100 genes. The heatmaps shown represent the absolute values of the estimated correlations among these genes.
 
-Figure _Comparison contrasts the original data with the results obtained using various penalty functions, including SCAD, MCP, and Nuclear norm regularization.
+Figure Comparison contrasts the original data with the results obtained using various penalty functions, including SCAD, MCP, and Nuclear norm regularization.
