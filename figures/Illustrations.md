@@ -1,8 +1,8 @@
 ## Illustrations:
-In this foloder, the results of our proposed methods applied in the real-world scenario is shown in the figures.
+In this folder, we present the results of our proposed methods applied to a real-world scenario, as illustrated in the accompanying figures.
 
-The dataset is the SRBCT gene expression data, including 2038 genes for 83 samples.  we calculate the F-statistic of all the gene expression values, and we pick the top 100 genes as the real-data to estimate.
+The dataset used is the SRBCT gene expression data, which consists of 2,038 genes across 83 samples. For analysis, we compute the F-statistic for all gene expression values and select the top 100 genes as the target data for estimation.
 
-In the figures, the selected 100 genes data are turned in to the covariance matrix, and the heat map of the absolute values of estimated correlations are shown in the figures.
+The figures display the covariance matrix constructed from the selected 100 genes. The heatmaps shown represent the absolute values of the estimated correlations among these genes.
 
-The _Comparison.figure_ illustrates the original data and the results of each penaltis, including SCAD, MCP and the Nuclear methods. 
+Figure _Comparison contrasts the original data with the results obtained using various penalty functions, including SCAD, MCP, and Nuclear norm regularization.
